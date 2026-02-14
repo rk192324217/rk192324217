@@ -14,7 +14,7 @@
 <div>
 
   <div align="center">
-      <img height="200" src="assets/avatar.png" alt="Rajesh Kanna S Avatar">
+      <img height="200" src="assets/avatar.png" alt="Rajesh Kanna S Avatar" style="border-radius:100px;">
   </div>
 
   <div align="center">
