@@ -7,16 +7,26 @@
 </p>
 
 <details>
-<summary>View profile</summary>
+<summary>View Profile</summary>
+
 <br>
+
 <div>
-  <div align=center>
-      <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
+
+  <div align="center">
+      <img height="200" src="assets/avatar.png" alt="Rajesh Kanna S Avatar">
   </div>
-  <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Kartik;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
+
+  <div align="center">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=500&color=CFFF04&center=true&vCenter=true&width=600&lines=Rajesh+Kanna+S;Full+Stack+Developer+with+ML;Building+Intelligent+Web+Systems; Computer+Vision+and+AI+Enthusiast;Freelance+Python+Instructor ; Open+to+Internships+and+Collaborations " alt="Typing SVG" />
+      </a>
   </div>
+
 </div>
+
+</details>
+
 
 <details>
 <summary>About me</summary>
@@ -126,7 +136,7 @@
 </div>
 </details>
 
-<details>
+<!-- <details>
   <summary>Open Source Contributions</summary>
   <br>
   <ul>
@@ -135,24 +145,24 @@
     <li><strong>The Algorithms - JavaScript and C++:</strong> Contributed to The Algorithms repository, particularly in JavaScript and C++ implementations of various algorithms and data structures.</li>
    <li><strong>True Sparrow - NftorNot.com, WhisperChain.xyz, AI SalesSparrow:</strong> Led the development of projects from inception to production under True Sparrow.</li>
   </ul>
-</details>
+</details> -->
 
-<details>
+<!-- <details>
   <summary>Quote</summary>
   <br>
   <blockquote>
     “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
     <br><strong>Mr. Robot - Elliot Alderson</strong>
   </blockquote>
-</details>
+</details> -->
 
-<details>
+<!-- <details>
   <summary>Free DOSE hit</summary>
   <br>
   <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
   <br>
   <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
-</details>
+</details> -->
 
 <details>
 <summary>What can I do for you?</summary>
@@ -164,7 +174,7 @@
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:kkapgate5@gmail.com">contact me by email</a>, I won't bite, I promise.
+If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:srk8115939@gmail.com">contact me by email</a>, Let's connect.
 
   </td>
   <td width="50%" valign="top">
