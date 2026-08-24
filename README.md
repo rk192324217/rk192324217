@@ -1,212 +1,185 @@
-
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1a1a1a&height=200&section=header&text=Rajesh%20Kanna%20S&fontSize=42&fontColor=CFFF04&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20%26%20Data%20Science&descAlignY=55&descSize=18&descColor=e34949" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&animation=fadeIn" />
-</p>
-
-<details>
-<summary>View Profile</summary>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=CFFF04&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+Cubosapiens+%E2%80%94+AI+Utilities+Platform;Computer+Vision+%2F+AI+Focused+Systems;Freelance+Python+Tutor;Open+to+SDE+Opportunities" alt="Typing SVG" /></a>
 
 <br>
 
-<div>
-
-  <div align="center">
-      <img height="200" src="assets/avatar.png" alt="Rajesh Kanna S Avatar" style="border-radius:100px;">
-  </div>
-
-  <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+New+Zealand+Basic+&weight=700&duration=3000&pause=1000&color=CFFF04&background=FF000000&center=true&vCenter=true&width=435&lines=Hi+I+am+Rajesh+Kanna;Full+Stack+Web+Developer++;Freelance+Python+Instructor;Computer+Vision+and+AI+Focused+Systems;Open+to+Opportunities+" alt="Typing SVG" /></a>
-  </div>
+<a href="https://www.linkedin.com/in/rk192324217/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn"/></a>
+<a href="mailto:srk8115939@gmail.com?subject=Hi%20Rajesh%2C%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="/></a>
+<a href="https://leetcode.com/rk192324217/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=FFA116&logo=LeetCode&logoColor=FFFFFF&label="/></a>
+<a href="https://github.com/rk192324217" target="_blank"><img alt="GitHub" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label="/></a>
 
 </div>
 
-</details>
+<br>
 
-
-<details>
-<summary>About me</summary>
-<div align="left">
+<details open>
+<summary><b>👋 About Me</b></summary>
+<br>
 
 ```js
-/**
- * Represents me.
- *
- * @constructor
- * @param {string} name - Rajesh Kanna S.
- * @param {string} role - Freelance Python Instructor.
- * @param {string} focus - Full stack web development with machine learning integration.
- * @param {string} interests - Building intelligent web applications and computer vision systems.
- * @param {string} strengths - Python, Java, JavaScript, and applied machine learning.
- * @param {string} education - BTech in Artificial Intelligence and Data Science, Saveetha School of Engineering.
- * @param {string} careerGoal - Full stack engineer with strong AI and ML focus.
- * @param {string} opportunities - Open to internships, open source contributions, and hackathons.
- * @param {string} traits - Consistency and adaptability.
- * @param {string} growthArea - Improving public speaking and technical communication.
- *
- * @returns {Object} Rajesh.
- */
+const rajeshKanna = {
+  role: "Software Engineering Student · Full Stack Developer",
+  focus: "Full-stack web development with applied machine learning",
+  building: "Cubosapiens — an open-source AI utilities platform",
+  education: "B.Tech AI & Data Science, SIMATS Engineering (CGPA: 8.7/10.0)",
+  experience: "Software Engineer Intern @ Effivity Technologies",
+  interests: ["Computer Vision", "Compiler Design", "Developer Tooling"],
+  currentlyExploring: "SDE placements & scaling Cubosapiens",
+  funFact: "Mentored 15+ students as a freelance Python tutor",
+};
 ```
-</div>
+
 </details>
 
 <details>
-<summary>Tools and Technologies</summary>
+<summary><b>💼 Experience</b></summary>
+<br>
+
+**Software Engineer Intern** — Effivity Technologies Pvt. Ltd., Chennai *(Aug 2025 – Dec 2025)*
+- Built and maintained full-stack enterprise SaaS applications (Effivity & Vegam AI) using C#, .NET, Angular, MongoDB, and MySQL in Agile workflows.
+- Built and integrated REST API-based search functionality; resolved bugs through debugging, testing, and peer code reviews.
+
+**Freelance Python Tutor** — Self-Employed, Chennai *(Jul 2025 – Mar 2026)*
+- Mentored 15+ students in Python, SQL, and programming fundamentals.
+- Helped a CBSE Class 12 student achieve 81% in Computer Science through personalized guidance.
+
+</details>
+
+<details>
+<summary><b>🚀 Featured Projects</b></summary>
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧩 Cubosapiens** — *AI Utilities & Open Source Platform*
+<br><sub>Next.js · Hono.js · TypeScript · PostgreSQL · Cloudflare Workers · Turborepo</sub>
+
+Open-source microservices monorepo with independently deployable tools on a centralized PostgreSQL registry for zero-touch integration. High-throughput Hono.js REST APIs deployed on Cloudflare Workers across global edge nodes. Led development for **GSSoC'26** — 40+ contributors, 80+ merged PRs, 65 forks, 20 stars.
+
+🔗 [cubosapiens.world](https://cubosapiens.world)
+
+</td>
+<td width="50%" valign="top">
+
+**🏓 Vision Pong** — *Browser-Based Hand-Tracking Game*
+<br><sub>React · Zustand · MediaPipe / OpenCV · Canvas API · Cloudflare Pages</sub>
+
+Real-time hand-tracking game with a 60 Hz client-side physics engine using MediaPipe Tasks Vision (WASM) to extract 21 hand landmarks/frame, mapping wrist position to paddle movement with zero server dependency. 9 arena themes, 15+ ball skins with custom photo upload.
+
+🔗 [visionpong.cubosapiens.world](https://visionpong.cubosapiens.world)
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>🛠️ Tools & Technologies</b></summary>
 <br>
 <div align="center">
-<kbd>
-  <kbd>Programming Languages</kbd>
-  <br><br>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" />
-</kbd>
+
+<kbd>Languages</kbd><br><br>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#"/>
 <br><br>
-<kbd>
-  <kbd>Backend Development</kbd>
-  <br><br>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" />
-  <img width="30px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" title="REST API" />
-  <img width="30px" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" />
-  <img width="30px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" />
-</kbd>
+
+<kbd>Web & Frameworks</kbd><br><br>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"/>
 <br><br>
-<kbd>
-  <kbd>Frontend Development</kbd>
-  <br><br>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" />
-</kbd>
+
+<kbd>Platforms & Infra</kbd><br><br>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflareworkers/cloudflareworkers-original.svg" title="Cloudflare Workers/Pages" onerror="this.style.display='none'"/>
+<!-- <img width="30" src="https://user-images.githubusercontent.com/25181517/183859232-d4bf5c9f-8ad9-4374-b0d9-4b9c8e6d6b0e.png" title="Supabase"/> -->
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
+<img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter"/>
 <br><br>
-<kbd>
-  <kbd>Databases</kbd>
-  <br><br>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS SQL Server" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" />
-</kbd>
+
+<kbd>Databases</kbd><br><br>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS SQL Server"/>
 <br><br>
-<kbd>
-  <kbd>Machine Learning and AI</kbd>
-  <br><br>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" />
-  <img width="30px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" />
-  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit learn" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" />
-  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" />
-  <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/spacy.svg" title="spaCy" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" />
-  <img width="30px" src="https://huggingface.co/front/assets/huggingface_logo.svg" title="Transformers" />
-</kbd>
-<br><br>
-<kbd>
-  <kbd>Development Tools and Platforms</kbd>
-  <br><br>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" />
-  <img width="30px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" title="GitHub Actions" />
-</kbd>
-<br><br>
-<kbd>
-  <kbd>Operating System</kbd>
-  <br><br>
-  <img width="30px" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" title="Windows" />
-</kbd>
+
+<kbd>Machine Learning & Vision</kbd><br><br>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch"/>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn"/>
+
 </div>
 </details>
 
-<!-- <details>
-  <summary>Open Source Contributions</summary>
-  <br>
-  <ul>
-    <li><strong>MDN Docs - Official JavaScript Docs:</strong> Contributed to improving and maintaining the official JavaScript documentation on MDN Web Docs.</li>
-    <li><strong>Pinterest - Pymemcache:</strong> Made contributions to the Pymemcache project on Pinterest, an efficient Python client for the memcached caching system.</li>
-    <li><strong>The Algorithms - JavaScript and C++:</strong> Contributed to The Algorithms repository, particularly in JavaScript and C++ implementations of various algorithms and data structures.</li>
-   <li><strong>True Sparrow - NftorNot.com, WhisperChain.xyz, AI SalesSparrow:</strong> Led the development of projects from inception to production under True Sparrow.</li>
-  </ul>
-</details> -->
+<details>
+<summary><b>🎓 Education & Certifications</b></summary>
+<br>
 
-<!-- <details>
-  <summary>Quote</summary>
-  <br>
-  <blockquote>
-    “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
-    <br><strong>Mr. Robot - Elliot Alderson</strong>
-  </blockquote>
-</details> -->
+**B.Tech, Artificial Intelligence & Data Science** — SIMATS Engineering, Chennai *(2023 – 2027, Expected)*
+CGPA: 8.7 / 10.0
 
-<!-- <details>
-  <summary>Free DOSE hit</summary>
-  <br>
-  <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
-  <br>
-  <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
-</details> -->
+**Oracle Database SQL Certified Specialist** — 2024
+
+**Languages:** English · Tamil · Hindi · German
+
+</details>
 
 <details>
-<summary>What can I do for you?</summary>
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
+<summary><b>📊 GitHub Stats</b></summary>
+<br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rk192324217&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rk192324217&theme=chartreuse-dark&hide_border=true" width="48%" />
+</div>
+</details>
 
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
+<details>
+<summary><b>📬 Let's Connect</b></summary>
+<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Let's Work on Your Project Together!
+### Let's Work on Your Project Together!
+Have a question about web development, AI, or documentation? [Email me](mailto:srk8115939@gmail.com) — let's connect.
 
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:srk8115939@gmail.com">contact me by email</a>, Let's connect.
+</td>
+<td width="50%" valign="top">
 
-  </td>
-  <td width="50%" valign="top">
+### Feedback Welcome
+> "I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better."
+> — **Elon Musk**
 
-## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-<br><strong>– Elon Musk</strong></blockquote>
-
-  </td>
-  </tr>
+</td>
+</tr>
 </table>
 </details>
 
-</details>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer&animation=fadeIn" />
-</p>
+<br>
 
-</div>
-
-<div align=center>
- <a href="https://www.linkedin.com/in/rk192324217/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" style="background-color:white; border: 1.5px solid #ffffff;border-radius:12px;"/></a>
-<a href="mailto:srk8115939@gmail.com?subject=Hi%20Rajesh%20,%20nice%20to%20meet%20you!" target="_blank" ><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" 
-style="background-color:white; border-radius:12px;border: 1.5px solid #ffffff;"/></a>
-<a href="https://leetcode.com/rk192324217/" target="_blank">
-    <img
-      width="100px"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png"
-      alt="LeetCode"
-      style="background-color:white; padding:2px; border-radius:12px;"
-    />
-  </a>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1a1a1a&height=120&section=footer" />
 </div>
