@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1a1a1a&height=200&section=header&text=Rajesh%20Kanna%20S&fontSize=42&fontColor=CFFF04&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20%26%20Data%20Science&descAlignY=55&descSize=18&descColor=e34949" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=CFFF04&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+Cubosapiens+%E2%80%94+AI+Utilities+Platform;Computer+Vision+%2F+AI+Focused+Systems;Freelance+Python+Tutor;Open+to+SDE+Opportunities" alt="Typing SVG" /></a>
-
-<br>
+<h1 align="center" style="font-family: 'Fira Code', monospace; color:#CFFF04; letter-spacing: 1px;">Rajesh Kanna S</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=e34949&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;Building+Cubosapiens+%E2%80%94+AI+Utilities+Platform;Computer+Vision+%2F+AI+Focused+Systems;Freelance+Python+Tutor;Open+to+SDE+Opportunities" alt="Typing SVG" /></a>
 
 <a href="https://www.linkedin.com/in/rk192324217/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn"/></a>
 <a href="mailto:srk8115939@gmail.com?subject=Hi%20Rajesh%2C%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="/></a>
@@ -16,58 +14,80 @@
 <br>
 
 <details open>
-<summary><b>👋 About Me</b></summary>
+<summary><b>About Me</b></summary>
 <br>
 
 ```js
 const rajeshKanna = {
-  role: "Software Engineering Student · Full Stack Developer",
+  role: "Full Stack Software Developer",
   focus: "Full-stack web development with applied machine learning",
   building: "Cubosapiens — an open-source AI utilities platform",
   education: "B.Tech AI & Data Science, SIMATS Engineering (CGPA: 8.7/10.0)",
   experience: "Software Engineer Intern @ Effivity Technologies",
-  interests: ["Computer Vision", "Compiler Design", "Developer Tooling"],
-  currentlyExploring: "SDE placements & scaling Cubosapiens",
-  funFact: "Mentored 15+ students as a freelance Python tutor",
+  interests: ["Computer Vision", "AR Games", "Developer Tooling"],
+  strength: "Fast learner — picks up new stacks and ships production-ready features quickly",
 };
 ```
 
 </details>
 
 <details>
-<summary><b>💼 Experience</b></summary>
+<summary><b>Experience</b></summary>
 <br>
 
-**Software Engineer Intern** — Effivity Technologies Pvt. Ltd., Chennai *(Aug 2025 – Dec 2025)*
-- Built and maintained full-stack enterprise SaaS applications (Effivity & Vegam AI) using C#, .NET, Angular, MongoDB, and MySQL in Agile workflows.
-- Built and integrated REST API-based search functionality; resolved bugs through debugging, testing, and peer code reviews.
+<table width="100%">
+<tr>
+<td width="100%">
 
-**Freelance Python Tutor** — Self-Employed, Chennai *(Jul 2025 – Mar 2026)*
-- Mentored 15+ students in Python, SQL, and programming fundamentals.
-- Helped a CBSE Class 12 student achieve 81% in Computer Science through personalized guidance.
+#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20" valign="middle"/> &nbsp;Software Engineer Intern
+<code>Effivity Technologies Pvt. Ltd.</code> &nbsp;&nbsp; Chennai, India &nbsp;&nbsp; <sub>Aug 2025 – Dec 2025</sub>
+
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+- Built and maintained full-stack enterprise SaaS applications — **Effivity** and **Vegam AI** — within Agile sprints.
+- Designed and integrated REST API-based search functionality used across the product suite.
+- Resolved production bugs through systematic debugging, test coverage, and peer code reviews.
+
+</td>
+</tr>
+<tr><td><br></td></tr>
+<tr>
+<td width="100%">
+
+#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" valign="middle"/> &nbsp;Freelance Python Tutor
+<code>Self-Employed</code> &nbsp;&nbsp; Chennai, India &nbsp;&nbsp; <sub>Jul 2025 – Mar 2026</sub>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Teaching-e34949?style=flat-square"/>
+
+- Mentored **15+ students** in Python, SQL, and core programming fundamentals through hands-on, project-based sessions.
+- Helped a CBSE Class 12 student **score 81% in Computer Science** through personalized guidance and doubt-solving.
+
+</td>
+</tr>
+</table>
 
 </details>
 
 <details>
-<summary><b>🚀 Featured Projects</b></summary>
+<summary><b>Featured Projects</b></summary>
 <br>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧩 Cubosapiens** — *AI Utilities & Open Source Platform*
-<br><sub>Next.js · Hono.js · TypeScript · PostgreSQL · Cloudflare Workers · Turborepo</sub>
+**Cubosapiens** — *AI Utilities & Open Source Platform*
+<br><sub>Next.js - Hono.js - TypeScript - PostgreSQL - Cloudflare Workers - Turborepo</sub>
 
-Open-source microservices monorepo with independently deployable tools on a centralized PostgreSQL registry for zero-touch integration. High-throughput Hono.js REST APIs deployed on Cloudflare Workers across global edge nodes. Led development for **GSSoC'26** — 40+ contributors, 80+ merged PRs, 65 forks, 20 stars.
+Open-source microservices monorepo with independently deployable tools on a centralized PostgreSQL registry for zero-touch integration. High-throughput Hono.js REST APIs deployed on Cloudflare Workers across global edge nodes. Led development for **GSSoC'26** — 45+ contributors, 95+ merged PRs, 70 forks, 20+ stars.
 
-🔗 [cubosapiens.world](https://cubosapiens.world)
+🔗 [cubosapiens.world](https://www.cubosapiens.world)
 
 </td>
 <td width="50%" valign="top">
 
-**🏓 Vision Pong** — *Browser-Based Hand-Tracking Game*
-<br><sub>React · Zustand · MediaPipe / OpenCV · Canvas API · Cloudflare Pages</sub>
+**Vision Pong** — *Browser-Based Hand-Tracking Game*
+<br><sub>React - Zustand - MediaPipe / OpenCV - Canvas API - Cloudflare Pages</sub>
 
 Real-time hand-tracking game with a 60 Hz client-side physics engine using MediaPipe Tasks Vision (WASM) to extract 21 hand landmarks/frame, mapping wrist position to paddle movement with zero server dependency. 9 arena themes, 15+ ball skins with custom photo upload.
 
@@ -80,7 +100,7 @@ Real-time hand-tracking game with a 60 Hz client-side physics engine using Media
 </details>
 
 <details>
-<summary><b>🛠️ Tools & Technologies</b></summary>
+<summary><b>Tools & Technologies</b></summary>
 <br>
 <div align="center">
 
@@ -108,7 +128,7 @@ Real-time hand-tracking game with a 60 Hz client-side physics engine using Media
 
 <kbd>Platforms & Infra</kbd><br><br>
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflareworkers/cloudflareworkers-original.svg" title="Cloudflare Workers/Pages" onerror="this.style.display='none'"/>
-<!-- <img width="30" src="https://user-images.githubusercontent.com/25181517/183859232-d4bf5c9f-8ad9-4374-b0d9-4b9c8e6d6b0e.png" title="Supabase"/> -->
+<img width="30" src="https://user-images.githubusercontent.com/25181517/183859232-d4bf5c9f-8ad9-4374-b0d9-4b9c8e6d6b0e.png" title="Supabase"/>
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
 <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman"/>
@@ -135,7 +155,7 @@ Real-time hand-tracking game with a 60 Hz client-side physics engine using Media
 </details>
 
 <details>
-<summary><b>🎓 Education & Certifications</b></summary>
+<summary><b>Education & Certifications</b></summary>
 <br>
 
 **B.Tech, Artificial Intelligence & Data Science** — SIMATS Engineering, Chennai *(2023 – 2027, Expected)*
@@ -148,16 +168,15 @@ CGPA: 8.7 / 10.0
 </details>
 
 <details>
-<summary><b>📊 GitHub Stats</b></summary>
+<summary><b>GitHub Stats</b></summary>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rk192324217&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rk192324217&theme=chartreuse-dark&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=rk192324217&theme=dark&hide_border=true" width="80%" />
 </div>
 </details>
 
 <details>
-<summary><b>📬 Let's Connect</b></summary>
+<summary><b>Let's Connect</b></summary>
 <br>
 <table>
 <tr>
@@ -170,8 +189,8 @@ Have a question about web development, AI, or documentation? [Email me](mailto:s
 <td width="50%" valign="top">
 
 ### Feedback Welcome
-> "I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better."
-> — **Elon Musk**
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+> — **Martin Fowler**
 
 </td>
 </tr>
@@ -181,5 +200,4 @@ Have a question about web development, AI, or documentation? [Email me](mailto:s
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1a1a1a&height=120&section=footer" />
 </div>
