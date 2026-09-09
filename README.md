@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/rk192324217/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn"/></a>
 <a href="mailto:srk8115939@gmail.com?subject=Hi%20Rajesh%2C%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="/></a>
 <a href="https://leetcode.com/rk192324217/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=FFA116&logo=LeetCode&logoColor=FFFFFF&label="/></a>
-<a href="https://github.com/rk192324217" target="_blank"><img alt="GitHub" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label="/></a>
+
 
 </div>
 
@@ -31,7 +31,7 @@ const rajeshKanna = {
 
 </details>
 
-<details>
+<details open>
 <summary><b>Experience</b></summary>
 <br>
 
@@ -68,7 +68,7 @@ const rajeshKanna = {
 
 </details>
 
-<details>
+<details open>
 <summary><b>Featured Projects</b></summary>
 <br>
 
@@ -99,7 +99,7 @@ Real-time hand-tracking game with a 60 Hz client-side physics engine using Media
 
 </details>
 
-<details>
+<details open>
 <summary><b>Tools & Technologies</b></summary>
 <br>
 <div align="center">
@@ -154,7 +154,7 @@ Real-time hand-tracking game with a 60 Hz client-side physics engine using Media
 </div>
 </details>
 
-<details>
+<details open>
 <summary><b>Education & Certifications</b></summary>
 <br>
 
@@ -167,11 +167,11 @@ CGPA: 8.7 / 10.0
 
 </details>
 
-<details>
+<details open>
 <summary><b>GitHub Stats</b></summary>
 <br>
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=rk192324217&theme=dark&hide_border=true" width="80%" />
+<img src="https://streak-stats.demolab.com/?user=rk192324217&theme=dark&hide_border=true" width="60%" />
 </div>
 </details>
 
